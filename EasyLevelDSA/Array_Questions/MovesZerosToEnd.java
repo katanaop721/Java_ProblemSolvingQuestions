@@ -1,4 +1,4 @@
-package EasyLevelDSA.Array_Questions;
+package Array.Array_Questions;
 
 import java.util.ArrayList;
 

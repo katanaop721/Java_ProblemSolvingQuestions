@@ -1,4 +1,4 @@
-package EasyLevelDSA.Array_Questions;
+package Array.Array_Questions;
 
 public class CountSubarraysumEqualsK {
     public static void main(String[] args) {
